@@ -1,4 +1,4 @@
-# inventory-sytem-project1
+# Inventory Management Software
 Welcome to our cutting-edge Inventory Management Software, designed to streamline your inventory operations with efficiency and precision. Our software offers comprehensive features tailored to meet the diverse needs of businesses across various industries. Here's a breakdown of our key functionalities:
 
 1. Login System: Our secure login system ensures that only authorized personnel can access the software, safeguarding your valuable data and maintaining confidentiality. Each user is assigned a unique login ID and password for personalized access.
